@@ -1,3 +1,6 @@
 This is a new file that is being added
 
 So if I want to keep track of this one from this point
+
+Until this point here
+These changes haven't been committed but they are being looked at from the git add fileName
