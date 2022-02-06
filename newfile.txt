@@ -10,3 +10,5 @@ You can one line the add/commit by saying commit -a as the -a adds all of the fi
 git commit -a -m "test"
 
 Then we can come and change some things 
+Then we can come and change some things 
+Then we can come and change some things 
