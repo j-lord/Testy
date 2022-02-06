@@ -4,3 +4,7 @@ So if I want to keep track of this one from this point
 
 Until this point here
 These changes haven't been committed but they are being looked at from the git add fileName
+What about now ?
+
+You can one line the add/commit by saying commit -a as the -a adds all of the files that have been changed
+git commit -a -m "test"
