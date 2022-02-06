@@ -8,3 +8,5 @@ What about now ?
 
 You can one line the add/commit by saying commit -a as the -a adds all of the files that have been changed
 git commit -a -m "test"
+
+Then we can come and change some things 
