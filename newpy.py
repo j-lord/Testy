@@ -7,3 +7,5 @@ print("after this, it is time to focus on real commits")
 print(math.radians(30))
 
 print(math.radians(66))
+print(math.radians(67))
+print(math.radians(68))
