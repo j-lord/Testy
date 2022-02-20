@@ -10,6 +10,11 @@ print("after this, it is time to focus on real commits")
 // the real question is if the node module package can fit in the repository
 // lets look into this
 
+// Either way, a publically available portfolio of all of your projects
+// would be benificial for a place to keep everything that you are working on
+// YOU NEED a place to point people to, in order to show them what you are
+// working on and have the ability to do
+
 print(math.radians(30))
 print(math.radians(66))
 print(math.radians(67))
