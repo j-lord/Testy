@@ -14,6 +14,8 @@ print("after this, it is time to focus on real commits")
 // would be benificial for a place to keep everything that you are working on
 // YOU NEED a place to point people to, in order to show them what you are
 // working on and have the ability to do
+// I thought about an option portfolio showing various strats running, or perhps even allowing users to back test methods on available data.
+// will have to look into what it cost to redistribute date to non-professionals and how to charge for it
 
 print(math.radians(30))
 print(math.radians(66))
