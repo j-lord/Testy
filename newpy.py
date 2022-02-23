@@ -17,6 +17,14 @@ print("after this, it is time to focus on real commits")
 // I thought about an option portfolio showing various strats running, or perhps even allowing users to back test methods on available data.
 // will have to look into what it cost to redistribute date to non-professionals and how to charge for it
 
+// Alright, you have been rambling along just for the sake of commits
+// Need to figure out what type of website you want to make in order
+// to point potential recruiters/colleagues to in order to show what you have done
+// https://aaronschlegel.me/measure-sensitivity-derivatives-greeks-python.html
+// https://dx-analytics.com/03_dx_valuation_single_risk.html
+
+// these are two examples 
+
 print(math.radians(30))
 print(math.radians(66))
 print(math.radians(67))
