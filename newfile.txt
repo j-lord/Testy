@@ -2,3 +2,4 @@ this line as well
 this line as well
 double >> is what appends, > overwrits 
 *overwrites
+so this is added to the bottom correct?
