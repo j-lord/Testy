@@ -24,6 +24,7 @@ print("after this, it is time to focus on real commits")
 // https://dx-analytics.com/03_dx_valuation_single_risk.html
 
 // these are two examples 
+// should I aniamte the greek graphs change as the values in the option change?
 
 print(math.radians(30))
 print(math.radians(66))
