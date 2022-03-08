@@ -26,6 +26,8 @@ print("after this, it is time to focus on real commits")
 // these are two examples 
 // should I aniamte the greek graphs change as the values in the option change?
 
+// that would be a portfolio for a job, should I just start working on the portfolio for the city builder? 
+
 print(math.radians(30))
 print(math.radians(66))
 print(math.radians(67))
